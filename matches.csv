@@ -1,0 +1,57 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,opp formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+1,2024-08-18,18:30,Serie A,Matchweek 1,Sun,Away,L,0,3,Hellas Verona,1.0,1.7,67.0,,Giovanni Di Lorenzo,3-4-3,3-4-3,,Match Report,,14,4,17.8,0.0,0,0,2022,Napoli
+2,2024-08-25,20:45,Serie A,Matchweek 2,Sun,Home,W,3,0,Bologna,2.5,0.6,39.0,,Giovanni Di Lorenzo,3-4-3,4-3-3,,Match Report,,16,5,17.5,0.0,0,0,2022,Napoli
+3,2024-08-31,20:45,Serie A,Matchweek 3,Sat,Home,W,2,1,Parma,2.2,1.7,55.0,,Giovanni Di Lorenzo,3-4-3,4-2-3-1,Paride Tremolada,Match Report,,29,7,17.5,1.0,0,0,2022,Napoli
+4,2024-09-15,18:00,Serie A,Matchweek 4,Sun,Away,W,4,0,Cagliari,1.9,1.0,49.0,,Giovanni Di Lorenzo,3-4-3,3-4-3,Federico La Penna,Match Report,,13,5,16.0,0.0,0,0,2022,Napoli
+5,2024-09-21,18:00,Serie A,Matchweek 5,Sat,Away,D,0,0,Juventus,0.3,0.3,36.0,,Giovanni Di Lorenzo,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,,8,1,23.4,0.0,0,0,2022,Napoli
+7,2024-09-29,20:45,Serie A,Matchweek 6,Sun,Home,W,2,0,Monza,1.1,0.3,49.0,,Giovanni Di Lorenzo,4-3-3,3-4-3,Gianluca Manganiello,Match Report,,11,2,13.8,0.0,0,0,2022,Napoli
+8,2024-10-04,18:30,Serie A,Matchweek 7,Fri,Home,W,3,1,Como,1.9,0.4,41.0,,Giovanni Di Lorenzo,4-2-3-1,4-2-3-1,Ermanno Feliciani,Match Report,,8,5,18.1,0.0,1,1,2022,Napoli
+0,2024-08-17,18:30,Serie A,Matchweek 1,Sat,Away,D,2.0,2.0,Genoa,1.9,2.1,68.0,,Lautaro Martínez,3-5-2,3-5-2,,Match Report,,17,7,13.7,1.0,0,0,2022,Internazionale
+1,2024-08-24,20:45,Serie A,Matchweek 2,Sat,Home,W,2.0,0.0,Lecce,2.4,0.3,61.0,,Nicolò Barella,3-5-2,4-2-3-1,,Match Report,,10,2,15.2,1.0,1,1,2022,Internazionale
+2,2024-08-30,20:45,Serie A,Matchweek 3,Fri,Home,W,4.0,0.0,Atalanta,1.3,1.4,55.0,,Lautaro Martínez,3-5-2,3-4-3,Matteo Marchetti,Match Report,,13,4,17.9,0.0,0,0,2022,Internazionale
+3,2024-09-15,20:45,Serie A,Matchweek 4,Sun,Away,D,1.0,1.0,Monza,1.7,0.2,60.0,,Lautaro Martínez,3-5-2,3-4-3,Luca Pairetto,Match Report,,16,2,14.8,0.0,0,0,2022,Internazionale
+5,2024-09-22,20:45,Serie A,Matchweek 5,Sun,Home,L,1.0,2.0,Milan,0.7,1.7,57.0,,Lautaro Martínez,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,,13,4,17.7,0.0,0,0,2022,Internazionale
+6,2024-09-28,15:00,Serie A,Matchweek 6,Sat,Away,W,3.0,2.0,Udinese,2.2,0.8,60.0,,Lautaro Martínez,3-5-2,3-5-2,Juan Luca Sacchi,Match Report,,16,7,14.7,0.0,0,0,2022,Internazionale
+8,2024-10-05,20:45,Serie A,Matchweek 7,Sat,Home,W,3.0,2.0,Torino,2.4,1.6,80.0,,Lautaro Martínez,3-5-2,3-5-2,Matteo Marcenaro,Match Report,,29,8,18.7,0.0,0,0,2022,Internazionale
+0,2024-08-19,20:45,Serie A,Matchweek 1,Mon,Home,W,3.0,0.0,Como,1.2,0.2,57.0,,Federico Gatti,4-2-3-1,4-4-2,,Match Report,,13,6,20.0,1.0,0,0,2022,Juventus
+1,2024-08-26,20:45,Serie A,Matchweek 2,Mon,Away,W,3.0,0.0,Hellas Verona,1.2,0.5,60.0,,Federico Gatti,4-2-3-1,3-4-3,,Match Report,,7,4,18.4,0.0,1,1,2022,Juventus
+2,2024-09-01,20:45,Serie A,Matchweek 3,Sun,Home,D,0.0,0.0,Roma,0.5,0.3,49.0,,Federico Gatti,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,8,1,16.5,1.0,0,0,2022,Juventus
+3,2024-09-14,18:00,Serie A,Matchweek 4,Sat,Away,D,0.0,0.0,Empoli,0.9,0.5,65.0,,Federico Gatti,4-2-3-1,3-4-3,Marco Di Bello,Match Report,,15,3,18.7,0.0,0,0,2022,Juventus
+5,2024-09-21,18:00,Serie A,Matchweek 5,Sat,Home,D,0.0,0.0,Napoli,0.3,0.3,64.0,,Gleison Bremer,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,,9,1,20.4,0.0,0,0,2022,Juventus
+6,2024-09-28,18:00,Serie A,Matchweek 6,Sat,Away,W,3.0,0.0,Genoa,2.6,0.4,65.0,,Danilo,4-2-3-1,3-5-2,Andrea Colombo,Match Report,,11,2,16.9,1.0,1,1,2022,Juventus
+8,2024-10-06,12:30,Serie A,Matchweek 7,Sun,Home,D,1.0,1.0,Cagliari,2.4,1.1,73.0,,Federico Gatti,4-2-3-1,4-2-3-1,Livio Marinelli,Match Report,,20,8,16.6,0.0,1,1,2022,Juventus
+0,2024-08-18,20:45,Serie A,Matchweek 1,Sun,Home,W,3.0,1.0,Venezia,2.4,0.6,67.0,,Mattia Zaccagni,4-3-3,3-4-3,,Match Report,,12,5,16.7,0.0,1,1,2022,Lazio
+1,2024-08-24,18:30,Serie A,Matchweek 2,Sat,Away,L,1.0,2.0,Udinese,1.3,0.8,66.0,,Mattia Zaccagni,4-3-3,3-4-3,,Match Report,,17,4,15.6,0.0,0,0,2022,Lazio
+2,2024-08-31,20:45,Serie A,Matchweek 3,Sat,Home,D,2.0,2.0,Milan,2.1,1.3,43.0,,Mattia Zaccagni,4-4-1-1,4-2-3-1,Davide Massa,Match Report,,7,4,9.3,0.0,0,0,2022,Lazio
+3,2024-09-16,20:45,Serie A,Matchweek 4,Mon,Home,W,2.0,1.0,Hellas Verona,1.2,0.8,55.0,,Mattia Zaccagni,4-2-3-1,3-4-3,Luca Zufferli,Match Report,,14,7,21.9,0.0,0,0,2022,Lazio
+4,2024-09-22,12:30,Serie A,Matchweek 5,Sun,Away,L,1.0,2.0,Fiorentina,1.0,2.7,54.0,,Mattia Zaccagni,4-2-3-1,3-4-3,Matteo Marcenaro,Match Report,,20,6,19.5,1.0,0,0,2022,Lazio
+6,2024-09-29,12:30,Serie A,Matchweek 6,Sun,Away,W,3.0,2.0,Torino,2.0,0.7,43.0,,Mattia Zaccagni,4-2-3-1,3-5-2,Simone Sozza,Match Report,,13,7,15.6,0.0,0,0,2022,Lazio
+8,2024-10-06,15:00,Serie A,Matchweek 7,Sun,Home,W,2.0,1.0,Empoli,2.1,0.5,58.0,,Mattia Zaccagni,4-2-3-1,3-1-4-2,Giovanni Ayroldi,Match Report,,15,5,18.6,0.0,0,1,2022,Lazio
+1,2024-08-18,18:30,Serie A,Matchweek 1,Sun,Away,D,1.0,1.0,Bologna,0.9,3.2,27.0,,Florian Thauvin,3-4-3,4-2-3-1,,Match Report,,3,1,17.7,0.0,0,1,2022,Udinese
+2,2024-08-24,18:30,Serie A,Matchweek 2,Sat,Home,W,2.0,1.0,Lazio,0.8,1.3,34.0,,Florian Thauvin,3-4-3,4-3-3,,Match Report,,8,3,19.4,0.0,0,0,2022,Udinese
+3,2024-09-01,20:45,Serie A,Matchweek 3,Sun,Home,W,1.0,0.0,Como,1.0,1.6,44.0,,Florian Thauvin,3-4-3,4-2-2-2,Alessandro Prontera,Match Report,,10,2,14.6,0.0,0,0,2022,Udinese
+4,2024-09-16,18:30,Serie A,Matchweek 4,Mon,Away,W,3.0,2.0,Parma,2.5,0.8,53.0,,Florian Thauvin,5-3-2,4-2-3-1,Rosario Abisso,Match Report,,18,6,15.1,0.0,0,0,2022,Udinese
+5,2024-09-22,18:00,Serie A,Matchweek 5,Sun,Away,L,0.0,3.0,Roma,0.7,1.9,38.0,,Florian Thauvin,3-4-3,3-5-1-1,Ermanno Feliciani,Match Report,,9,2,17.6,0.0,0,0,2022,Udinese
+7,2024-09-28,15:00,Serie A,Matchweek 6,Sat,Home,L,2.0,3.0,Inter,0.8,2.2,40.0,,Florian Thauvin,3-5-2,3-5-2,Juan Luca Sacchi,Match Report,,9,3,14.4,0.0,0,0,2022,Udinese
+8,2024-10-05,15:00,Serie A,Matchweek 7,Sat,Home,W,1.0,0.0,Lecce,0.9,0.5,55.0,,Jaka Bijol,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,,12,4,12.8,1.0,0,0,2022,Udinese
+0,2024-08-17,20:45,Serie A,Matchweek 1,Sat,Home,D,2.0,2.0,Torino,2.1,1.0,56.0,,Davide Calabria,4-2-3-1,3-5-2,,Match Report,,26,5,18.5,0.0,0,0,2022,Milan
+1,2024-08-24,18:30,Serie A,Matchweek 2,Sat,Away,L,1.0,2.0,Parma,1.9,1.7,61.0,,Davide Calabria,4-2-3-1,4-2-3-1,,Match Report,,17,5,18.6,0.0,0,0,2022,Milan
+2,2024-08-31,20:45,Serie A,Matchweek 3,Sat,Away,D,2.0,2.0,Lazio,1.3,2.1,57.0,,Fikayo Tomori,4-2-3-1,4-4-1-1,Davide Massa,Match Report,,10,4,17.5,1.0,0,0,2022,Milan
+3,2024-09-14,20:45,Serie A,Matchweek 4,Sat,Home,W,4.0,0.0,Venezia,2.2,0.3,62.0,,Theo Hernández,4-3-3,5-4-1,Davide Di Marco,Match Report,,10,6,20.0,0.0,2,2,2022,Milan
+5,2024-09-22,20:45,Serie A,Matchweek 5,Sun,Away,W,2.0,1.0,Inter,1.7,0.7,43.0,,Theo Hernández,4-2-3-1,3-5-2,Maurizio Mariani,Match Report,,16,8,16.4,0.0,0,0,2022,Milan
+6,2024-09-27,20:45,Serie A,Matchweek 6,Fri,Home,W,3.0,0.0,Lecce,1.6,0.5,57.0,,Rafael Leão,4-2-3-1,4-3-3,Luca Zufferli,Match Report,,15,6,16.4,0.0,0,0,2022,Milan
+8,2024-10-06,20:45,Serie A,Matchweek 7,Sun,Away,L,1.0,2.0,Fiorentina,2.6,1.5,59.0,,Theo Hernández,4-2-3-1,4-2-3-1,Luca Pairetto,Match Report,,14,6,17.0,0.0,0,2,2022,Milan
+1,2024-08-17,20:45,Serie A,Matchweek 1,Sat,Away,D,2.0,2.0,Milan,1.0,2.1,44.0,,Duván Zapata,3-5-2,4-2-3-1,,Match Report,,7,3,16.3,0.0,0,0,2022,Torino
+2,2024-08-25,18:30,Serie A,Matchweek 2,Sun,Home,W,2.0,1.0,Atalanta,2.4,3.0,42.0,,Duván Zapata,3-5-2,3-4-3,,Match Report,,13,6,15.5,1.0,0,0,2022,Torino
+3,2024-08-30,18:30,Serie A,Matchweek 3,Fri,Away,W,1.0,0.0,Venezia,1.0,0.8,58.0,,Duván Zapata,3-5-2,3-4-3,Matteo Marcenaro,Match Report,,12,5,17.0,0.0,0,0,2022,Torino
+4,2024-09-15,15:00,Serie A,Matchweek 4,Sun,Home,D,0.0,0.0,Lecce,0.4,1.6,53.0,,Duván Zapata,3-5-2,4-2-3-1,Andrea Colombo,Match Report,,5,0,17.4,1.0,0,0,2022,Torino
+5,2024-09-20,20:45,Serie A,Matchweek 5,Fri,Away,W,3.0,2.0,Hellas Verona,2.2,0.5,70.0,,Duván Zapata,3-5-2,3-4-1-2,Livio Marinelli,Match Report,,15,3,18.9,1.0,0,1,2022,Torino
+7,2024-09-29,12:30,Serie A,Matchweek 6,Sun,Home,L,2.0,3.0,Lazio,0.7,2.0,57.0,,Duván Zapata,3-5-2,4-2-3-1,Simone Sozza,Match Report,,12,7,19.5,1.0,0,0,2022,Torino
+8,2024-10-05,20:45,Serie A,Matchweek 7,Sat,Away,L,2.0,3.0,Inter,1.6,2.4,20.0,,Duván Zapata,3-5-2,3-5-2,Matteo Marcenaro,Match Report,,6,4,21.8,0.0,1,1,2022,Torino
+1,2024-08-19,18:30,Serie A,Matchweek 1,Mon,Away,W,4.0,0.0,Lecce,1.7,1.5,52.0,,Marten de Roon,3-4-1-2,4-2-3-1,,Match Report,,10,5,13.4,0.0,1,1,2022,Atalanta
+2,2024-08-25,18:30,Serie A,Matchweek 2,Sun,Away,L,1.0,2.0,Torino,3.0,2.4,58.0,,Marten de Roon,3-4-3,3-5-2,,Match Report,,24,8,16.0,1.0,0,1,2022,Atalanta
+3,2024-08-30,20:45,Serie A,Matchweek 3,Fri,Away,L,0.0,4.0,Inter,1.4,1.3,45.0,,Marten de Roon,3-4-3,3-5-2,Matteo Marchetti,Match Report,,11,1,17.1,0.0,0,0,2022,Atalanta
+4,2024-09-15,15:00,Serie A,Matchweek 4,Sun,Home,W,3.0,2.0,Fiorentina,1.7,1.7,51.0,,Marten de Roon,3-4-3,3-4-3,Juan Luca Sacchi,Match Report,,13,7,13.6,0.0,0,0,2022,Atalanta
+6,2024-09-24,20:45,Serie A,Matchweek 5,Tue,Home,L,2.0,3.0,Como,1.6,1.1,59.0,,Marten de Roon,3-4-1-2,4-2-3-1,Paride Tremolada,Match Report,,7,4,20.0,0.0,1,1,2022,Atalanta
+7,2024-09-28,20:45,Serie A,Matchweek 6,Sat,Away,D,1.0,1.0,Bologna,2.0,0.1,64.0,,Marten de Roon,3-4-1-2,4-3-3,Antonio Rapuano,Match Report,,23,4,16.2,0.0,0,0,2022,Atalanta
+9,2024-10-05,18:00,Serie A,Matchweek 7,Sat,Home,W,5.0,1.0,Genoa,3.6,0.7,63.0,,Marten de Roon,3-4-3,3-5-2,Daniele Chiffi,Match Report,,22,7,15.3,0.0,1,1,2022,Atalanta
