@@ -16,9 +16,11 @@
 ├── data
 │   ├── serie_a_matches.csv
 │   ├── serie_a_matches.json
+│   ├── serie_a_league_table.csv
 │   └── serie_a_matches_cleaned.csv
 ├── model
 └── scripts
     ├── 01_get_data.py
-    └── 02_data_cleaning.ipynb
+    ├── 02_data_cleaning.ipynb
+    └── 03_feature_engineering.py
 ```
