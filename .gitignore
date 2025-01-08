@@ -3,3 +3,6 @@ config.json
 
 # icon for the folder on my computer
 icon
+Icon?
+
+.DS_Store
